@@ -1,2 +1,2 @@
 # portfolio-website
-basic portfolio website project, to learn web-dev
+Basic portfolio website project, to learn web-dev...
